@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Study project</string>
+    <string name="splash_name">My study project</string>
+    <string name="splash_author">Powered by Ilia Grigorev</string>
+    <string name="lets_get_started">Lets get started</string>
+    <string name="first_slide_title">First title</string>
+    <string name="second_slide_title">Second title</string>
+    <string name="third_slide_title">Third title</string>
+    <string name="forth_slide_title">Forth title</string>
+    <string name="first_slide_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam at blanditiis corporis deleniti iste minus nam quae, quis repudiandae rerum sint sit vitae voluptate! Aut id modi nulla quidem quod? Aliquam aliquid aut dolorum expedita fugiat harum illo incidunt labore minus natus necessitatibus, neque, omnis provident sequi unde vitae voluptate?</string>
+    <string name="second_slide_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam at blanditiis corporis deleniti iste minus nam quae, quis repudiandae rerum sint sit vitae voluptate! Aut id modi nulla quidem quod? Aliquam aliquid aut dolorum expedita fugiat harum illo incidunt labore minus natus necessitatibus, neque, omnis provident sequi unde vitae voluptate?</string>
+    <string name="third_slide_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam at blanditiis corporis deleniti iste minus nam quae, quis repudiandae rerum sint sit vitae voluptate! Aut id modi nulla quidem quod? Aliquam aliquid aut dolorum expedita fugiat harum illo incidunt labore minus natus necessitatibus, neque, omnis provident sequi unde vitae voluptate?</string>
+    <string name="forth_slide_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam at blanditiis corporis deleniti iste minus nam quae, quis repudiandae rerum sint sit vitae voluptate! Aut id modi nulla quidem quod? Aliquam aliquid aut dolorum expedita fugiat harum illo incidunt labore minus natus necessitatibus, neque, omnis provident sequi unde vitae voluptate?</string>
+</resources>
